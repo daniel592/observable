@@ -11,10 +11,12 @@
   "dependencies": {
     "@observablehq/framework": "^1.13.3",
     "d3-dsv": "^3.0.1",
-    "d3-time-format": "^4.1.0"
+    "d3-time-format": "^4.1.0",
+    "upgrade": "^1.1.0"
   },
   "devDependencies": {
-    "rimraf": "^5.0.5"
+    "rimraf": "^5.0.5",
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=18"
